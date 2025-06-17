@@ -560,7 +560,7 @@
     <string name="Other">"Autre"</string>
     <string name="Leave_Team">"Quitter l'Équipe"</string>
 
-    <string name="Remove_Player">"Retirer le joueur"</string>
+    <string name="Remove_Player">"Supprimer le joueur"</string>
     <string name="Reject_Invitation">"Rejeter l'invitation"</string>
     <string name="Leave_Game">"Quitter la partie"</string>
     <string name="Remove_Friend">"Supprimer cet ami"</string>

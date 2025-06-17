@@ -1324,7 +1324,7 @@ Commandes:
 !admin {id}
 !allow {id}
 !allow reset
-!team [1-4] {id} ( Seulement en les modes d'équipes )
+!team [1-4] {id} ( Seulement dans les modes d'équipes )
 !winner
 !stats
 !info"

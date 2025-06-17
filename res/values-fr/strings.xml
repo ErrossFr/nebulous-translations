@@ -291,7 +291,7 @@
     <string name="No_open_public_clans_exist_">"Il n'existe pas de clans publics ouverts, désolé !"</string>
     <string name="You_aren_t_invited_to_that_clan_">"Vous n'êtes pas invité dans ce clan."</string>
     <string name="No_such_clan_exists_">"Aucun clan de ce nom n'existe…"</string>
-    <string name="That_clan_is_full_">"Ce clan est rempli, réessaye plus tard"</string>
+    <string name="That_clan_is_full_">"Ce clan est rempli, réessayez plus tard"</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Cet autre utilisateur n'est pas membre de votre clan."</string>
     <string name="_You_can_t_be_your_own_friend_">"Tu ne peux pas être ton propre ami… Dommage !"</string>
     <string name="A_clan_with_that_name_already_exists_">"Un clan ayant ce nom existe déjà."</string>
